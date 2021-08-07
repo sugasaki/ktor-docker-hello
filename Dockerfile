@@ -2,7 +2,7 @@
 FROM gradle:6.7 as builder
 
 # Copy local code to the container image.
-COPY build.gradle .
+COPY build.gradle.kts .
 COPY gradle.properties .
 COPY src ./src
 

@@ -1,6 +1,3 @@
-# ktor-docker-hello
-
-
 
 
 [docs/docs/serving/samples/hello\-world/helloworld\-kotlin at mkdocs · knative/docs](https://github.com/knative/docs/tree/mkdocs/docs/serving/samples/hello-world/helloworld-kotlin)
@@ -33,5 +30,3 @@ docker-compose down --volumes
 ```
 docker exec -i -t container--ktor-test bash
 ```
-
-
