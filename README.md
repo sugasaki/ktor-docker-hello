@@ -59,7 +59,7 @@ services:
 ```
 
 
-# Step3 Docker起動
+# Step3 Docker Build & Run
 
 ```
 docker-compose up --build
