@@ -14,7 +14,7 @@ fun Application.configureRouting() {
         }
 
         get("/news") {
-            call.respondText("news!!!!")
+            call.respondText("news!")
         }
     }
 }
